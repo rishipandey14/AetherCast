@@ -1,3 +1,4 @@
+import API_KEY from "./config.js";   // env variables
 document.addEventListener('DOMContentLoaded', () => {
     const cityInput = document.getElementById("city-input");
     const getWeatherbtn = document.getElementById("get-weather-btn");
@@ -7,7 +8,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const descriptionDisplay = document.getElementById("description");
     const errorMessage = document.getElementById("error-message");
 
-    const API_KEY = "068c754a6358098b264b1cadae2b9798";   // env variables
 
     getWeatherbtn.addEventListener('click', async () => {
         const city = cityInput.value.trim();
