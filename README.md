@@ -1,0 +1,1 @@
+Inspired by the ancient Greek concept of "Aether" – the upper sky, the app delivers seamless weather updates, temperature trends, and storm alerts with a sleek and user-friendly interface. Whether you’re planning your day or tracking extreme weather conditions, AetherCast keeps you informed with precision and style.
